@@ -1,0 +1,3 @@
+:HL["/_next/static/css/560b19cfdfd54f34.css","style"]
+:HL["/images/stones/granito-arabesco.webp","image"]
+0:{"tree":{"name":"","param":null,"prefetchHints":16,"slots":{"children":{"name":"pedras","param":null,"prefetchHints":0,"slots":{"children":{"name":"slug","param":{"type":"d","key":"granito-arabesco","siblings":null},"prefetchHints":0,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":0,"slots":null}}}}}}},"staleTime":300,"buildId":"dY1LdBQV4gyeg7bHAPa6j"}

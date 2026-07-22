@@ -1,0 +1,7 @@
+codigo-fonte/node_modules/
+codigo-fonte/.next/
+codigo-fonte/dist/
+codigo-fonte/.vinext/
+codigo-fonte/.wrangler/
+codigo-fonte/.sites-runtime/
+*.log

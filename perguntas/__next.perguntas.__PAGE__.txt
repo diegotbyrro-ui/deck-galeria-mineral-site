@@ -1,0 +1,9 @@
+1:"$Sreact.fragment"
+2:I[1917,["500","static/chunks/500-c99b8dfd3de17c86.js","917","static/chunks/917-f23ff1c348d963ac.js","584","static/chunks/app/perguntas/page-c628dbe3afdc61e9.js"],"PageHero"]
+3:I[1917,["500","static/chunks/500-c99b8dfd3de17c86.js","917","static/chunks/917-f23ff1c348d963ac.js","584","static/chunks/app/perguntas/page-c628dbe3afdc61e9.js"],"FAQList"]
+4:I[1917,["500","static/chunks/500-c99b8dfd3de17c86.js","917","static/chunks/917-f23ff1c348d963ac.js","584","static/chunks/app/perguntas/page-c628dbe3afdc61e9.js"],"Footer"]
+5:I[1917,["500","static/chunks/500-c99b8dfd3de17c86.js","917","static/chunks/917-f23ff1c348d963ac.js","584","static/chunks/app/perguntas/page-c628dbe3afdc61e9.js"],"WhatsAppFloat"]
+6:I[484,[],"OutletBoundary"]
+7:"$Sreact.suspense"
+0:{"rsc":["$","$1","c",{"children":[["$","main",null,{"children":[["$","$L2",null,{"eyebrow":"Antes de escolher","title":["Boas escolhas começam",["$","br",null,{}],"com as perguntas ",["$","em",null,{"children":"certas."}]],"text":"Reunimos respostas para ajudar você a entender materiais, processo, atendimento e instalação.","image":"/images/deck-hero-cinematic.png"}],["$","section",null,{"className":"faq-section section-cream","children":["$","div",null,{"className":"shell faq-layout","children":[["$","div",null,{"children":[["$","p",null,{"className":"eyebrow dark","children":[["$","span",null,{}],"Perguntas frequentes"]}],["$","h2",null,{"children":["Da primeira ideia",["$","br",null,{}],"à última peça."]}],["$","p",null,{"children":"Se a sua dúvida não estiver aqui, fale diretamente com nossa equipe."}],["$","a",null,{"href":"/contato","className":"text-link dark","children":"Enviar uma pergunta ↗"}]]}],["$","$L3",null,{}]]}]}],["$","$L4",null,{}],["$","$L5",null,{}]]}],null,["$","$L6",null,{"children":["$","$7",null,{"name":"Next.MetadataOutlet","children":"$@8"}]}]]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"dY1LdBQV4gyeg7bHAPa6j"}
+8:null
