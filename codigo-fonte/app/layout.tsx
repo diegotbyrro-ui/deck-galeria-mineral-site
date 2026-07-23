@@ -9,8 +9,10 @@ export const metadata: Metadata = {
   description:
     "Há 40 anos, a Deck seleciona, transforma e instala mármores, granitos, quartzitos, ônix e superfícies para projetos que não aceitam o comum.",
   icons: {
-    icon: [
-      { url: "/favicon.ico?v=11", sizes: "any" },
+    icon: [{ url: "/icon.png", type: "image/png" }],
+    apple: [{ url: "/apple-icon.png", type: "image/png" }],
+    shortcut: ["/favicon.ico"],
+  },
       { url: "/deck-favicon-v11.png?v=11", type: "image/png", sizes: "256x256" },
     ],
     shortcut: ["/favicon.ico?v=11"],
