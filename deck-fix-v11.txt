@@ -1,4 +1,4 @@
 DECK_FIX_V11_OK
-NERO=/images/home-pedras-v11/marmore-nero-marquina-v11.jpg
-ONIX=/images/home-pedras-v11/onix-branco-perola-v11.jpg
+NERO=/images/home-pedras-v13/marmore-nero-marquina-v13.jpg
+ONIX=/images/home-pedras-v13/onix-branco-perola-v13.jpg
 FAVICON=/favicon.ico?v=11

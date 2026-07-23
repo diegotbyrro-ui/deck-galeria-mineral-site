@@ -92,8 +92,8 @@ function storyFor(name: string, category: string, presence: string) {
 }
 
 const imageOverrides: Record<string, string> = {
-  "marmore-nero-marquina": "/images/home-pedras-v11/marmore-nero-marquina-v11.jpg",
-  "onix-branco-perola": "/images/home-pedras-v11/onix-branco-perola-v11.jpg",
+  "marmore-nero-marquina": "/images/home-pedras-v13/marmore-nero-marquina-v13.jpg",
+  "onix-branco-perola": "/images/home-pedras-v13/onix-branco-perola-v13.jpg",
 };
 function makeStone([slug, name, category]: StoneSeed): Stone {
   const profile = profileFor(name);
