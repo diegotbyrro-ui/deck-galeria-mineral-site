@@ -7,3 +7,12 @@
   </FilesMatch>
 </IfModule>
 # DECK CACHE V6 END
+# DECK FAVICON CACHE START
+<IfModule mod_headers.c>
+    <FilesMatch "(favicon|deck-favicon|deck-tab|deck-apple|icon\.png|apple-icon\.png)">
+        Header set Cache-Control "no-cache, no-store, must-revalidate"
+        Header set Pragma "no-cache"
+        Header set Expires "0"
+    </FilesMatch>
+</IfModule>
+# DECK FAVICON CACHE END
