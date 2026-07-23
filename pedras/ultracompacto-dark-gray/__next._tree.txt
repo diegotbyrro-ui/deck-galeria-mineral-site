@@ -1,3 +1,3 @@
 :HL["/_next/static/css/cff585cf0ad307f6.css","style"]
-:HL["/images/stones/ultracompacto-dark-gray.webp","image"]
+:HL["/images/catalogo-pedras-v6/ultracompacto-dark-gray.webp","image"]
 0:{"tree":{"name":"","param":null,"prefetchHints":16,"slots":{"children":{"name":"pedras","param":null,"prefetchHints":0,"slots":{"children":{"name":"slug","param":{"type":"d","key":"ultracompacto-dark-gray","siblings":null},"prefetchHints":0,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":0,"slots":null}}}}}}},"staleTime":300,"buildId":"IXcypoH_WsfBojS7ILxd6"}

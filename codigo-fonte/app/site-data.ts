@@ -97,7 +97,7 @@ function makeStone([slug, name, category]: StoneSeed): Stone {
     slug,
     name,
     category,
-    image: `/images/stones/${slug}.webp`,
+    image: `/images/catalogo-pedras-v6/${slug}.webp`,
     origin: originFor(name, category),
     mood: profile.mood,
     description: profile.description,

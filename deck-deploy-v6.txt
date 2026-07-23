@@ -1,0 +1,3 @@
+DECK_DEPLOY_V6_OK
+Repositorio: diegotbyrro-ui/deck-galeria-mineral-site
+Catalogo: /images/catalogo-pedras-v6/
