@@ -91,13 +91,17 @@ function storyFor(name: string, category: string, presence: string) {
   return stories[category] ?? `A história de ${name} une matéria, técnica e olhar humano. Cada detalhe foi selecionado para levar ao projeto ${presence}.`;
 }
 
+const imageOverrides: Record<string, string> = {
+  "marmore-nero-marquina": "/images/home-pedras-v11/marmore-nero-marquina-v11.jpg",
+  "onix-branco-perola": "/images/home-pedras-v11/onix-branco-perola-v11.jpg",
+};
 function makeStone([slug, name, category]: StoneSeed): Stone {
   const profile = profileFor(name);
   return {
     slug,
     name,
     category,
-    image: `/images/catalogo-pedras-v6/${slug}.webp`,
+    image: imageOverrides[slug] ?? `/images/catalogo-pedras-v6/${slug}.webp`,
     origin: originFor(name, category),
     mood: profile.mood,
     description: profile.description,
